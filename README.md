@@ -181,16 +181,3 @@ Test reports are available under `build/reports/tests/test/index.html`.
 - Exception handling is centralized via the `GlobalExceptionHandler`.
 - Validation is handled using annotations in the `DeliveryRequest` class.
 
----
-
-## Contact
-For any questions or issues, feel free to reach out to:
-- **Name:** Abbas Toof
-- **Email:** abbas.toof@gmail.com
-- **GitHub:** https://github.com/abbastoof/
-- **LinkedIn:** https://www.linkedin.com/in/abbastoof/
-
----
-
-Thank you for reviewing my submission!
-
